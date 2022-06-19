@@ -1,0 +1,20 @@
+body {
+    background-color: green;
+}
+p{
+    color:peachpuff;
+    font-size: medium;
+    font-family: 'Times New Roman';
+}
+h1{
+    color:peachpuff; 
+}
+div{
+    text-align: center;
+}
+.image1{
+    width: 400px;
+    border-image: round;
+    position: relative;
+    left: 500px;
+}
